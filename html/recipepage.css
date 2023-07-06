@@ -1,0 +1,42 @@
+div{    
+    background-color: rgb(190, 197, 173);
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: arial;
+    padding: 10px; 
+}
+
+img{
+    height: 250px;
+    width: 250px;    
+    float: center;
+    margin: auto;
+}
+
+h1{
+    color: rgb(4, 4, 4);
+    font-family: arial;
+    text-align: center;
+}
+
+html{
+    background-color:rgb(164, 180, 148)
+}
+
+p{
+    font-family: arial;
+    text-align: center;
+}
+
+#title{
+   margin: 40px;
+}
+
+h2{
+    color: rgb(4, 4, 4);
+    font-family: arial;
+    text-align: center;
+}
+
