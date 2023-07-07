@@ -1,0 +1,60 @@
+.card {
+    background-color: lightseagreen;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0px;
+    border-radius: 10px;
+    border: 2.5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: 5%;
+  }
+  
+.image-{
+    text-align: center;
+  }
+  
+.image- img {
+    width: 500px;
+    height: 350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px;
+  }
+
+  
+.name {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+.job-title, .job-description {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+ol{
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav ol li{
+    display: inline;
+    text-align: center;
+    display: inline-flex;
+    padding: 30px 30px 30px 50px;
+    color: aquamarine;
+
+}
+
+nav ol li :hover{
+    color: aquamarine;   
+    background-color: seagreen;
+}
+.job-description{
+    padding: 4%;
+}
