@@ -1,0 +1,301 @@
+body{
+    background-color: #0E3B43;
+}
+
+header{
+    background-color:#A3BBAD;
+    margin: 0%;
+    padding: 0% ;
+}
+
+#logo{
+    background-color: #357266;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+img{
+    height: 250px;
+    width: 250px;
+    padding-top: 1px;
+    padding-right: 0%;
+    margin: 0px;
+    background-size: cover;
+    background-color: #A3BBAD;
+}
+
+#navmenu{
+    float: right;
+
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    top: 0%;
+    background-color: #A3BBAD;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+
+
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+
+h1{
+    background-color: #0E3B43;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 68px;
+}
+.welcome-message{
+    background-color: #A3BBAD;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 50px;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    animation: 1.5s;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+    background-color: #0E3B43;
+
+}
+
+.container .box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.container .box .column1{
+    display: flex;
+    flex-direction: column;
+    width: 32.5%;
+}
+
+.container .box .column1 img{
+    padding-top: 10px;
+    width: 100%;
+    background-color:#0E3B43;
+}
+
+
+.container .IMG1{
+    opacity: 0.7;
+}
+.container .IMG1:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+
+.container .IMG2{
+    opacity: 0.7;
+}
+
+.container .IMG2:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+
+.container .IMG3{
+    opacity: 0.7;
+}
+.container .IMG3:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG4{
+    opacity: 0.7;
+}
+.container .IMG4:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG5{
+    opacity: 0.7;
+}
+.container .IMG5:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG6{
+    opacity: 0.7;
+}
+.container .IMG6:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG7{
+    opacity: 0.7;
+}
+.container .IMG7:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG8{
+    opacity: 0.7;
+}
+.container .IMG8:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG9{
+    opacity: 0.7;
+}
+.container .IMG9:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG10{
+    opacity: 0.7;
+}
+.container .IMG10:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG11{
+    opacity: 0.7;
+}
+.container .IMG11:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG12{
+    opacity: 0.7;
+}
+.container .IMG12:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG13{
+    opacity: 0.7;
+}
+.container .IMG13:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG14{
+    opacity: 0.7;
+}
+.container .IMG14:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+.container .IMG15{
+    opacity: 0.7;
+}
+.container .IMG15:hover{
+    opacity: 1;
+    animation: 1.5s;
+}
+
+
+.box2 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+    width: fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+
+  }
+  
+  .card {
+    background-color:#A3BBAD;
+    border: 20px solid #0E3B43;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .cardMakkah{
+    background-color: #A3BBAD;
+    border: 20px solid #0E3B43;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .cardMadinah{
+    background-color: #A3BBAD;
+    border: 20px solid #0E3B43;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+  }
+
+  .cardJeddah{
+    background-color: #A3BBAD;
+    border: 20px solid #0E3B43;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+  }
+  .card img {
+    max-width: 100%;
+  }
+  
+  .card h4 {
+    margin-top: 10px;
+  }
+  
+  .card p {
+    margin-top: 5px;
+  }
+
+.view-button {
+    display: inline-block;
+    background-color: #0E3B43;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  
+.view-button:hover {
+    background-color: #007bff;
+}
+
+@media (max-width: 768px) {
+
+}
