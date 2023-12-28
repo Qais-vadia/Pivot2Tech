@@ -14,6 +14,9 @@ const highest = Math.max(...numberArray)
 
 var word1 = "thisissomethingthatcontainsnothing"
 var word2 = []
+
+
+function repeatedCharacters(word){
     
     for(let i=0; i<word1.split('').length; i++){
         if(!word2.includes(word1.split(''))[i]){
