@@ -1,0 +1,52 @@
+body{
+    background-color: burlywood;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    align-items: center;
+    margin: 0px;
+
+}
+
+img{
+    width: 100%;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.Cards{
+    width: 40%;
+    background-color: bisque;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.CardHolder{
+    display: flex;
+    justify-content: center;
+
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    padding: 10px 15px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover{
+    border-bottom: 1px solid black;
+}
